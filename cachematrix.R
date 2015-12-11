@@ -1,4 +1,4 @@
-## Cache the inverse of a matrix
+## R Programming Assignment 2 -- Cache the inverse of a matrix
 
 
 ## Create a matrix object that can cache its inverse
